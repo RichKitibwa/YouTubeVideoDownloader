@@ -10,3 +10,5 @@ The run the imports below;
 from tkinter import *
 from pytube import YouTube
 ```
+Then follow along with the rest of the code. <br/>
+After downloading, the downloaded video will be stored in the same folder where your project is.
